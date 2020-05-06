@@ -2672,3 +2672,4 @@ Sharing, suggestions and contributions are always welcome!
 
 * [위시켓 최근 프로젝트 검색](https://github.com/packal/repository/raw/master/so.muk.wishket/wishket_search-1.2.alfredworkflow) - 위시켓, 최근 프로젝트 검색
 
+* [身份证号校验](https://github.com/mumubusu/idcard-alfred-workflow/releases/download/1.0.1/idcard.alfredworkflow) - 身份证号校验、信息提取、随机生成

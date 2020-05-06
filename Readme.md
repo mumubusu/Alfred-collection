@@ -1008,6 +1008,8 @@ Sharing, suggestions and contributions are always welcome!
 
 * [Irvue for Alfred](https://github.com/packal/repository/raw/master/com.marceloalves.irvue-workflow/irvue.alfredworkflow) - Workflow to control Irvue
 
+* [Idcard verify](https://github.com/mumubusu/idcard-alfred-workflow/releases/download/1.0.1/idcard.alfredworkflow) - Workflow to verify idcard, idcard-generator
+
 * [JS Coach React Native Search](https://github.com/packal/repository/raw/master/cn.frankwang.JSCoachReactNative/search_js.coach_react-native.alfredworkflow) - Search for React Native on JS.Coach
 
 * [JSON beautifier](https://github.com/packal/repository/raw/master/com.alfredapp.jsonbeautifier/json_beautifier.alfredworkflow) - Beautifies minified JSON
@@ -2671,5 +2673,3 @@ Sharing, suggestions and contributions are always welcome!
 * [进制转换](https://github.com/packal/repository/raw/master/com.olivercj.alfred.number-coversion/coversion.alfredworkflow) - 进制转换，自动判读输入数字，转换结果包括16进制，10进制，8进制，2进制
 
 * [위시켓 최근 프로젝트 검색](https://github.com/packal/repository/raw/master/so.muk.wishket/wishket_search-1.2.alfredworkflow) - 위시켓, 최근 프로젝트 검색
-
-* [身份证号校验](https://github.com/mumubusu/idcard-alfred-workflow/releases/download/1.0.1/idcard.alfredworkflow) - 身份证号校验、信息提取、随机生成
